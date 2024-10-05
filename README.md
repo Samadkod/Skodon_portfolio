@@ -14,7 +14,16 @@ Bienvenue sur mon portfolio GitHub ! Je suis passionné par l'analyse des donné
 
 Projet de prédiction des abonnés à risque de désabonnement chez Canal+. J'ai développé des modèles prédictifs pour identifier les abonnés à risque en fonction de leur consommation TV. En automatisant les rapports hebdomadaires via Dataiku, j'ai permis un suivi précis des performances des abonnés à myCANAL.
 
-[Voir le dépôt du projet](#)
+Prédiction du churn - Canal+
+
+## Description :
+Dans ce projet, j'ai développé des modèles prédictifs pour identifier les abonnés à risque de désabonnement pour Canal+. L'objectif était de segmenter les abonnés en fonction de leur consommation et de fournir des insights pour optimiser les stratégies marketing.
+
+## Technologie :
+- Python pour la création des modèles de prédiction
+- SQL pour extraire et manipuler les données
+- Power BI pour la visualisation des performances
+- Dataiku pour l'automatisation des processus
 
 ### [Optimisation des stratégies d'assurance - Université de Montpellier](#)
 **Technologies utilisées** : Python, R, Machine Learning
