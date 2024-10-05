@@ -6,4 +6,4 @@ Bienvenue sur mon portfolio GitHub ! Je suis passionné par l'analyse des donné
 - **Langages** : Python, SAS, R, SQL
 - **Outils de visualisation** : Power BI, Tableau, Dataiku, Npaw
 - **Machine Learning** : Modélisation prédictive, Text mining, Web scraping
-- **Automatisation des processus** : Excel (VBA), Dataiku
+- **Automatisation des processus** : Excel (VBA), Dataiku 
